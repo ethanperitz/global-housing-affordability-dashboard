@@ -2,6 +2,9 @@
 
 An interactive Streamlit dashboard exploring housing affordability across global cities.
 
+### Live App Link
+https://global-housing-affordability-dashboard-ethanperitz.streamlit.app/
+
 ## Features
 - Compare one or two countries at a time
 - Analyze rent burden as a percent of monthly salary
